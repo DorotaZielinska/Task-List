@@ -1,7 +1,7 @@
 # Task-List
 ![Task-List](images/tasks-list_optimized.png)
 ## Demo
-https://github.com/DorotaZielinska/Task-List/deployments/activity_log?environment=github-pages
+https://dorotazielinska.github.io/Task-List/
 
 This application is easy to use, please type in the first field ("Co jest do zrobienia?") what would you like to add to your task list, the next step is to
 press button ("Dodaj zadanie") after that you will see bellow Lista zadań your task. The green box you can use to mark that your task is done and red box is
