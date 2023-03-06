@@ -1,0 +1,7 @@
+.body {
+    background-color: rgb(229, 229, 250);
+    max-width: 1000px;
+    padding: 20px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
