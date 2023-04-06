@@ -47,3 +47,9 @@
 .tacks__button--remove:active {
     background-color: rgb(196, 6, 6);
 }
+.buttons__button {
+    transition: 1s;
+}
+.buttons__button:hover {
+    transform: scale(1.1);
+}
