@@ -50,6 +50,3 @@
 .buttons__button {
     transition: 1s;
 }
-.buttons__button:hover {
-    transform: scale(1.1);
-}
